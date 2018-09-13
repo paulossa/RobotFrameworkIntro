@@ -1,0 +1,11 @@
+*** Settings ***
+Library           SeleniumLibrary
+
+*** Test Cases ***
+TestCase1
+    Open Browser    https://google.com    Chrome
+    Close Browser
+
+teste2
+    Open Browser    google.com.br    chrome
+    Close Browser

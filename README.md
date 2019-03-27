@@ -6,4 +6,9 @@
 - ``` pip install --upgrade robotframework-seleniumlibrary```
 
 
+--- 
+
+https://github.com/robotframework/HowToWriteGoodTestCases/blob/master/HowToWriteGoodTestCases.rst
+
+
 :construction:
